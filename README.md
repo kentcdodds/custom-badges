@@ -17,7 +17,7 @@ To link to [slides.com](https://slides.com/) slides
 [![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/eb1bcdd/badges/slides.svg)](http://example.com/your-slides)
 
 ```
-[<img alt="slides" src="https://cdn.rawgit.com/kentcdodds/custom-badges/VERSION/badges/slides.png" height="20" />](http://example.com/your-slides)
+[![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/eb1bcdd/badges/slides.svg)](http://example.com/your-slides)
 ```
 
 ## FAQ

@@ -16,4 +16,5 @@ new_version=$((latest_version+1))
 echo "Tagging \"$new_version\" as the new version"
 git tag $new_version
 echo "Pushing"
-git push --follow-tags
+git push
+git push --tags

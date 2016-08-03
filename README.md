@@ -16,6 +16,8 @@ To link to [slides.com](https://slides.com/) slides
 
 [![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/305ba45/badges/slides.svg)](http://example.com/your-slides)
 
+![slides-shields](https://img.shields.io/badge/%F0%9F%98%8E-slides-E5637C.svg?style=flat-square)
+
 ```
 [![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/305ba45/badges/slides.svg)](http://example.com/your-slides)
 ```

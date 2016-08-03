@@ -33,7 +33,7 @@ MIT
 
 [versions]: https://github.com/kentcdodds/custom-badges/releases
 [version-badge]: https://img.shields.io/github/tag/kentcdodds/custom-badges.svg?style=flat-square
-[license-badge]: https://img.shields.io/github/license/kentcdodds/custom-badges.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square
 [license]: https://github.com/kentcdodds/custom-badges/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com

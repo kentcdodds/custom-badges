@@ -12,7 +12,7 @@ Just a repo for me to keep my custom badges around
 
 ### slides
 
-To link to [slides.com](https://slides.com/) slides
+To link to [slides.com](https://rawgit.com/kentcdodds/custom-badges/master/badges/slides.svg) slides
 
 [![slides-badge](badges/slides.svg)](http://example.com/your-slides)
 

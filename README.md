@@ -14,18 +14,11 @@ Just a repo for me to keep my custom badges around
 
 To link to [slides.com](https://slides.com/) slides
 
-<img alt="slides" src="badges/slides.png" height="20" />
+[![slides-badge](badges/slides.svg)](http://example.com/your-slides)
 
 ```
-[<img alt="slides" src="https://cdn.rawgit.com/kentcdodds/custom-badges/VERSION/badges/slides.png" height="20" />](http://example.com/your-slides)
+[![slides-badge](https://cdn.rawgit.com/kentcdodds/custom-badges/VERSION/badges/slides.svg)](http://example.com/your-slides)
 ```
-
-## FAQ
-
-Why do I have to use `<img>`? Because this is using a `png` rather than an
-`svg`, I'm fairly certain that I had to make the image 2x bigger to look good
-on retina displays and you have to shrink it down manually. If you wanna make
-an SVG for this, that'd be amazing :)
 
 ## LICENSE
 

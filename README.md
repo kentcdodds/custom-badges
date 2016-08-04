@@ -14,10 +14,10 @@ Just a repo for me to keep my custom badges around
 
 To link to [slides.com](https://slides.com/) slides
 
-[![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/dcd1bd8/badges/slides.svg)](http://example.com/your-slides)
+[![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/240ac18/badges/slides.svg)](http://example.com/your-slides)
 
 ```
-[![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/dcd1bd8/badges/slides.svg)](http://example.com/your-slides)
+[![slides-badge](https://cdn.rawgit.com/j3ddesign/custom-badges/240ac18/badges/slides.svg)](http://example.com/your-slides)
 ```
 
 ## FAQ
